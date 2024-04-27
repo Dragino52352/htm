@@ -54,7 +54,7 @@ header, footer {
 }
 
 .projects h2 {
-    color: #4e5863;; /* Цвет заголовка */
+    color: #19334e;; /* Цвет заголовка */
     font-size: 24px; /* Размер шрифта заголовка */
     margin-bottom: 20px; /* Отступ снизу заголовка */
 }
@@ -87,7 +87,7 @@ header, footer {
     height: 40vh;
     border-radius: 20px; 
     border-style: solid;
-    border-color: #4e5863;
+    border-color: #183655;
     object-fit: cover; 
 }
 
@@ -117,7 +117,7 @@ header, footer {
 }
 
 .carousel-content .button-link:hover {
-    background-color: #4e5863;
+    background-color: #084485;
 }
 
 button {
